@@ -1,3 +1,3 @@
-// Auteur : Shu He
+// Auteur : Shu HE
 console.log("test")
 
