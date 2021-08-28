@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Diana Quiroz Villanes
 console.log("test")
 
