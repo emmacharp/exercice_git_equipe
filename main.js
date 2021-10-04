@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Pierrick Le Roy
 console.log("test")
 
