@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Jean-Philippe Desloges
 console.log("test")
 
