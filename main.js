@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Maxime Fournier
 console.log("test")
 
