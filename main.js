@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Danny Trépanier
 console.log("test")
 
