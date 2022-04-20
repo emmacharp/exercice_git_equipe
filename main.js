@@ -1,3 +1,3 @@
-// bla bla
-1=1;
+//Auteur: Bita Sarfarazi
+console.log("test")
 
