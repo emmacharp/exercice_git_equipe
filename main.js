@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Dmitriy Dudchenko
 console.log("test")
 
