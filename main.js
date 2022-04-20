@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Louis-Etienne Lemire
 console.log("test")
 
