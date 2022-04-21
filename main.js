@@ -1,3 +1,2 @@
-// Auteur : Jonathan Martel
+// Auteur : Vsevolod Tsyplenkov
 console.log("test")
-
