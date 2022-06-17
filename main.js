@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Éloïse Emery
 console.log("test")
 
