@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Sébastien Gedeon
 console.log("test")
 
