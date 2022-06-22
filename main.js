@@ -1,3 +1,3 @@
-// bla bla
-1=1;
+// Auteur : Romain Depret
+console.log("test")
 
