@@ -1,3 +1,2 @@
-// Auteur : Jonathan Martel
-console.log("test")
-
+// Auteur : David Deschênes
+console.log("test");
