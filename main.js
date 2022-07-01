@@ -1,3 +1,5 @@
 // Auteur : Roula Mardini
-console.log("test")
+console.log("Conflit reglé")
 
+// bla bla
+1=1;
