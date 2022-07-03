@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Catherine Roberge
 console.log("test")
 
