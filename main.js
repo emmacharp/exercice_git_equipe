@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Claire Pereira
 console.log("test")
 
