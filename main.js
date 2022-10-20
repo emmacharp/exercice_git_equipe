@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Pauline Huby
 console.log("test")
 
