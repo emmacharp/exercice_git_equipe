@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Renaud B.C.
 console.log("test")
 
