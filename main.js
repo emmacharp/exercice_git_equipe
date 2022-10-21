@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Jephte Damas
 console.log("test")
 
