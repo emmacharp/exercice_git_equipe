@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Laetitia Juste
 console.log("test")
 
