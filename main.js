@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Kenneth Edwin Gbeti
 console.log("test")
 
