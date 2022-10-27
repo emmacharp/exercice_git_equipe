@@ -1,3 +1,9 @@
-// Auteur : Jonathan Martel
-console.log("test")
+<<<<<<< HEAD
+// Auteur : Annabelle Gamache
+console.log("test");
+//change
+=======
+// bla bla
+1=1;
+>>>>>>> b53079c358e533a6bc94239594d11d106e12dcc5
 
