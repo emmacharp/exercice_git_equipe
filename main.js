@@ -1,3 +1,2 @@
-// Auteur : Jonathan Martel
+// Auteur : Pénélope Ducharme
 console.log("test")
-
