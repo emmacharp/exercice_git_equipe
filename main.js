@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Tommy Favreau
 console.log("test")
 
