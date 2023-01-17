@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Louis Queruau Lamerie
 console.log("test")
 
