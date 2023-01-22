@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Alexandru Candu
 console.log("test")
 
