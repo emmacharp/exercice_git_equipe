@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Rizo
 console.log("test")
 
