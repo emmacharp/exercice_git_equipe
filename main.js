@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Pierre-Luc Moisan
 console.log("test")
 
