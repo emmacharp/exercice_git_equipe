@@ -1,3 +1,3 @@
-// Auteur : Emile Daigneault
+// Auteur : Emile Daigneau
 console.log("test")
 
