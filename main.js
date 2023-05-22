@@ -1,3 +1,3 @@
-// Auteur : Farouk Manai
+// Auteur : Jonathan Martel
 console.log("test")
 
