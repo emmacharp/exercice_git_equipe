@@ -1,3 +1,2 @@
-// Auteur : Jonathan Martel
+// Auteur : Olena Khliupina
 console.log("test")
-
