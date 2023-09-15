@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Ismail Frizi
 console.log("test")
 
