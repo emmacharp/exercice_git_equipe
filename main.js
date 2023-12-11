@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Rostyslav Luchyshyn
 console.log("test")
 
