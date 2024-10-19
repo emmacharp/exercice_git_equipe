@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : David Ritchy
 console.log("test")
 
