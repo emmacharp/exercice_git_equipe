@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Filippa Simard
 console.log("test")
 
