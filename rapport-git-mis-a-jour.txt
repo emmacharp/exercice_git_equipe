@@ -1,0 +1,112 @@
+# Travail Pratique #01 - Git
+Nom : David Jules
+Date : 22/10/2024
+
+## Étape 1 : Commandes de base
+```bash
+# 1. Création du dépôt git en local
+git init
+
+# 2. Création des trois fichiers
+# Creation de index.html
+echo "<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <h1>Titre 1</h1>
+    <h2>Titre 2</h2>
+    <p>paragraphe</p>
+</body>
+</html>" > index.html
+
+# Creation de style.css
+echo "/* Rien pour l'instant */" > style.css
+
+# Creation de main.js
+echo "// Auteur : David Jules
+console.log(\"test\")
+
+// bla bla
+1=1;" > main.js
+
+# 3. Vérification de l'état du dépôt
+git status
+
+# 4. Création du commit avec les trois fichiers
+git add index.html style.css main.js
+git commit -m "Ajout des trois fichiers"
+
+# 5. Exécution de la commande demandée
+git status >> git_exercice1.log && git log >> git_exercice1.log
+
+# 6. Commit du fichier log
+git add git_exercice1.log
+git commit -m "Ajout du fichier log"
+```
+
+## Étape 2 : Travailler avec un distant
+```bash
+# 1. Création du dépôt sur Github.com (fait via l'interface web)
+
+# 2. Clonage du dépôt vide en local
+git clone https://github.com/DavidJ97/n61-remote-git
+cd n61-remote-git
+
+# 3. Création des fichiers avec le même contenu que l'étape 1
+# [Mêmes commandes de création de fichiers que l'étape 1]
+
+# 4. Vérification de l'état
+git status
+
+# 5. Création du commit
+git add index.html style.css main.js
+git commit -m "Ajout des trois fichiers"
+
+# 6. Mise à jour du dépôt distant
+git push origin master
+
+# 7. Ajout de la capture d'écran
+git add capture_depot_distant.png
+git commit -m "Ajout de la capture d'écran"
+git push origin master
+```
+
+## Étape 3 : Travailler en équipe
+```bash
+# 1. Fork effectué sur GitHub
+# URL du fork : https://github.com/DavidJ97/exercice_git_equipe_david_jules
+
+# 2. Clonage du dépôt en local
+git clone https://github.com/DavidJ97/exercice_git_equipe_david_jules.git
+cd exercice_git_equipe_david_jules
+
+# 3. Configuration du dépôt upstream
+git remote add upstream https://github.com/emmacharp/exercice_git_equipe.git
+
+# 4. Vérification des remotes
+git remote -v
+# Sortie :
+# origin  https://github.com/DavidJ97/exercice_git_equipe_david_jules.git (fetch)
+# origin  https://github.com/DavidJ97/exercice_git_equipe_david_jules.git (push)
+# upstream        https://github.com/emmacharp/exercice_git_equipe.git (fetch)
+# upstream        https://github.com/emmacharp/exercice_git_equipe.git (push)
+
+# 5-6. Modification du fichier, commit et push
+git add main.js
+git commit -m "Remplacé le nom par le mien"
+git push origin master
+
+# 7. Ajout du remote pour le conflit
+git remote add depotconflit https://github.com/emmacharp/exercice_git_equipe_conflit
+
+# 8. Pull pour générer le conflit
+git pull depotconflit master
+
+# 9. Résolution du conflit et finalisation
+git add main.js
+git commit -m "Résolution du conflit dans main.js"
+git push origin master
+```
+
+URL de la Pull Request : https://github.com/emmacharp/exercice_git_equipe/pull/142
